@@ -1,0 +1,20 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.10.1"
+	},
+	"peerDependencies": {
+		"framer": "^0.10.1",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "1163f09a-2a8a-4fd2-b93e-687f5a90a5ea"
+	},
+	"author": "Yancy Min",
+	"dependencies": {
+		"styled-components": "^4.1.3"
+	}
+}
